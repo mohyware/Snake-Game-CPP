@@ -23,4 +23,8 @@ The Snake game is a classic arcade game where players control a snake that grows
 - Collides with its own body.
 - Hits a wall.
 
-<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7049039759846912000/?originTrackingId=Mj3EwaBgTAKRkGGivJ8Dug%3D%3D" height="500" width="800" frameborder="0" allowfullscreen="" title="LinkedIn Video"></iframe>
+## Requirements
+- `graphics.h` library for C++.
+
+## Showcase
+[LinkedIn Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7049039759846912000/?originTrackingId=Mj3EwaBgTAKRkGGivJ8Dug%3D%3D")
